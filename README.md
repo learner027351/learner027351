@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @learner027351
 - 👀 I’m interested in exploring the realm ofemrging tech fileds which are ready to revolutionize us in near future;
-- 🌱 I’m currently learning Android dev and oftenly exploring new technologies like AI&ML,Qunatunm COmputing<DATA SCIENCE
+- 🌱 I’m currently learning Android dev and oftenly exploring new technologies like Quantunm Computing,DATA SCIENCE.
 - 💞️ I’m looking to collaborate on Android Projects as well as solving Data Structure Problems
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
